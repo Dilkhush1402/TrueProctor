@@ -5,7 +5,7 @@ A comprehensive **AI-powered video proctoring system** designed for online inter
 **👨‍💻 Developer**: Dilkhush Kumar
 **🌐 Portfolio**: [https://portfolio-rajiv-kumar.vercel.app/](https://portfolio-rajiv-kumar.vercel.app/)  
 **📧 Email**: samratdilkhush111@gmail.com  
-**📂 Repository**: 
+**📂 Repository**: https://github.com/Dilkhush1402/TrueProctor
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-blue)]()
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-green)](https://www.mongodb.com/atlas)
