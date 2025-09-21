@@ -4,8 +4,8 @@ A comprehensive **AI-powered video proctoring system** designed for online inter
 
 **👨‍💻 Developer**: Dilkhush Kumar
 **🌐 Portfolio**: [https://portfolio-rajiv-kumar.vercel.app/](https://portfolio-rajiv-kumar.vercel.app/)  
-**📧 Email**: rajivkumarbth111@gmail.com  
-**📂 Repository**: [https://github.com/iwanturequity/Tutedude-assignment](https://github.com/iwanturequity/Tutedude-assignment)
+**📧 Email**: samratdilkhush111@gmail.com  
+**📂 Repository**: 
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-blue)]()
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-green)](https://www.mongodb.com/atlas)
