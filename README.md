@@ -3,7 +3,7 @@
 A comprehensive **AI-powered video proctoring system** designed for online interviews and examinations. This system ensures academic integrity through real-time monitoring, intelligent detection algorithms, and automated reporting.
 
 **👨‍💻 Developer**: Dilkhush Kumar
-**🌐 Portfolio**: [https://portfolio-rajiv-kumar.vercel.app/](https://portfolio-rajiv-kumar.vercel.app/)  
+**🌐 Portfolio**: https://github.com/Dilkhush1402/TrueProctor 
 **📧 Email**: samratdilkhush111@gmail.com  
 **📂 Repository**: https://github.com/Dilkhush1402/TrueProctor
 
