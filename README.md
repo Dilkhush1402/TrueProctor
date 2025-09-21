@@ -1,4 +1,4 @@
-# 🎥 Tutedude Proctoring System
+# 🎥 TrueProctor- Proctoring System
 
 A comprehensive **AI-powered video proctoring system** designed for online interviews and examinations. This system ensures academic integrity through real-time monitoring, intelligent detection algorithms, and automated reporting.
 
